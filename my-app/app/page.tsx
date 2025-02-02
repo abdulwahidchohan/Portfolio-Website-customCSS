@@ -78,7 +78,7 @@ export default function Page() {
                 </Reveal>
                 <Reveal>
                   <p className={styles.aboutText}>
-                  Hi, I&rsquo;sm Abdul Wahid Chohan a passionate Web 3 developer, AI enthusiast, and robotics innovator. With expertise in Next.js, TypeScript, and Tailwind CSS, I build scalable, future-ready digital solutions. Whether it&rsquo;s crafting interactive interfaces, drivings decentralization, intelligent automation, or cutting-edge web experiences, I thrive on turning ideas into reality. Let’s push the boundaries of technology together!
+                  Hi, I&rsquo;m Abdul Wahid Chohan a passionate Web 3 developer, AI enthusiast, and robotics innovator. With expertise in Next.js, TypeScript, and Tailwind CSS, I build scalable, future-ready digital solutions. Whether it&rsquo;s crafting interactive interfaces, drivings decentralization, intelligent automation, or cutting-edge web experiences, I thrive on turning ideas into reality. Let’s push the boundaries of technology together!
                   </p>
                 </Reveal>
                 <Reveal>
