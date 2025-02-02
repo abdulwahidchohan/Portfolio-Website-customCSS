@@ -1,0 +1,28 @@
+.animatedHeader {
+  font-size: 2.25rem;
+  font-weight: bold;
+  line-height: 1.2;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  background-image: linear-gradient(to right, hsl(var(--primary)), hsl(var(--secondary)));
+}
+
+@media (min-width: 640px) {
+  .animatedHeader {
+    font-size: 3rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .animatedHeader {
+    font-size: 3.75rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .animatedHeader {
+    font-size: 4.5rem;
+  }
+}
+

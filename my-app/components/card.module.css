@@ -1,0 +1,30 @@
+.card {
+  background-color: hsl(var(--card));
+  border-radius: 0.5rem;
+  border: 1px solid hsl(var(--border));
+  box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+}
+
+.cardHeader {
+  display: flex;
+  flex-direction: column;
+  padding: 1.5rem;
+}
+
+.cardTitle {
+  font-size: 1.25rem;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.cardContent {
+  padding: 1.5rem;
+}
+
+.cardFooter {
+  display: flex;
+  align-items: center;
+  padding: 1.5rem;
+  border-top: 1px solid hsl(var(--border));
+}
+
